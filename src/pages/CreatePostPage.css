@@ -37,9 +37,9 @@
   
   .create-post-form input:focus,
   .create-post-form textarea:focus {
-    border-color: #6200ea;
+    border-color: #84d7ee;
     outline: none;
-    box-shadow: 0 0 4px rgba(98, 0, 234, 0.5);
+    box-shadow: 0 0 4px rgba(126, 204, 209, 0.5);
   }
   
   .create-post-form button {

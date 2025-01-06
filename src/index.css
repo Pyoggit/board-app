@@ -1,7 +1,9 @@
 @font-face {
-  font-family: "NanumPenScript";
-  src: url("/NanumPenScript-Regular.ttf");
- }
+  font-family: 'YESMyoungjo-Regular';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_13@1.0/YESMyoungjo-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
  html,
  body {
   margin: 0px;
@@ -20,5 +22,5 @@
   padding: 10px 10px;
  }
  body * {
-  font-family: "NanumPenScript";
+  font-family: 'YESMyoungjo-Regular';
  }
